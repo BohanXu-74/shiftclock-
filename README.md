@@ -11,7 +11,7 @@ A 4-digit seven segment clock built with an STC15W204S microcontroller and DS130
 | STC15W204S | Main microcontroller |
 | DS1302 | Real-time clock module for timekeeping |
 | 4-digit 7-segment display | Output display |
-| Shift register | Used to load BCD segment data |
+| 74HC164 | Used to load BCD segment data |
 | Push buttons | Mode selection and value adjustment |
 
 ---
